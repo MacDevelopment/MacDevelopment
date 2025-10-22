@@ -9,4 +9,4 @@
 
 ## If I wanted to hire you for FiveM, RedM, a website, program, or something else - how would I?
 
-You could message me on Discord, @code.mac, or via email [here](mailto:your-email@example.com).
+You could message me on Discord, @code.mac, or via email [here](https://macdevelopment.dev).
