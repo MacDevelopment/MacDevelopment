@@ -11,7 +11,7 @@
 
 ## About
 
-Current Developer at [Pluto Development](https://pluton-webstore.tebex.io/) and an Affiliate at [BotGhost](botghost.com)
+Current Developer at [Pluto Development](https://pluton-webstore.tebex.io/) and an Affiliate at [BotGhost](https://botghost.com)
 
 ## If I wanted to hire you for FiveM, RedM, a website, program, or something else - how would I?
 You could message me on Discord, @code.mac, or via email [here](https://macdevelopment.dev).
