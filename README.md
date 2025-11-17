@@ -14,4 +14,4 @@ Current Developer at [Pluto Development](https://pluton-webstore.tebex.io/) and 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## If I wanted to hire you for FiveM, RedM, a website, program, or something else - how would I?
-You could message me on Discord, @code.mac, or via email [here](https://macdevelopment.dev).
+Message me via Discord, @[code.mac](https://i.postimg.cc/bv57Cw3s/Screenshot-169.png).
