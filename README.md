@@ -16,5 +16,3 @@ Current Developer at [Pluto Development](https://pluton-webstore.tebex.io/) and 
 ## If I wanted to hire you for FiveM, RedM, a website, program, or something else - how would I?
 Message me via Discord, @code.mac. 
 
-<img width="297" height="254" alt="image" src="https://github.com/user-attachments/assets/56485332-7ec3-41e7-a4c6-b08b5fc62c52" />
-
