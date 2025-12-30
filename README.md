@@ -1,6 +1,6 @@
 ## About
 
-Current Developer at [Pluto Development](https://pluton-webstore.tebex.io/) and an Affiliate at [BotGhost](https://botghost.com/?via=mac)
+Current Developer at [Pluto Development](https://pluton-webstore.tebex.io/) and a Partner at [BotGhost](https://botghost.com/?via=mac)
 
 ## Tech Stack
 
