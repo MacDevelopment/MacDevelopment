@@ -18,4 +18,4 @@ Message me via [Discord](https://i.postimg.cc/rwrSqk2Q/Screenshot-1.png)
 
 ## Public Projects
 
-[Drug Script](https://www.youtube.com/watch?v=TGbN4d8KP6g)
+[Drug & Labs System v5](https://www.youtube.com/watch?v=TGbN4d8KP6g)
