@@ -16,3 +16,6 @@ Current Developer at [Pluto Development](https://pluton-webstore.tebex.io/) and 
 ## If I wanted to hire you for FiveM, RedM, a website, program, or something else - how would I?
 Message me via [Discord](https://i.postimg.cc/rwrSqk2Q/Screenshot-1.png)
 
+## What have you worked on?
+Some of my freelance work is private, so I cannot showcase it all. However, here are a few of the projects I have participated in that are public. 
+[Drug Script](https://www.youtube.com/watch?v=TGbN4d8KP6g)
