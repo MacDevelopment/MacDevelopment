@@ -18,7 +18,7 @@ Message me via [Discord](https://i.postimg.cc/rwrSqk2Q/Screenshot-1.png)
 
 ## Public Projects
 
-[Drug & Labs System v5](https://www.youtube.com/watch?v=TGbN4d8KP6g)
-[FiveM Website](https://70sroleplay.com)
+[Drug & Labs System v5](https://www.youtube.com/watch?v=TGbN4d8KP6g) |
+[FiveM Website](https://70sroleplay.com) |
 [Personal Website](https://www.macdevelopment.dev/)
 
