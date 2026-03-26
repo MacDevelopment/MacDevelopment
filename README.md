@@ -1,6 +1,6 @@
 ## About
 
-Current Developer at [Pluto Development](https://pluton-webstore.tebex.io/) and a Partner at [BotGhost](https://botghost.com/?via=mac)
+Current Developer and Media Manager at [Pluto Development](https://pluton-webstore.tebex.io/) and a Partner at [BotGhost](https://botghost.com/?via=mac)
 
 ## Tech Stack
 
@@ -13,7 +13,7 @@ Current Developer at [Pluto Development](https://pluton-webstore.tebex.io/) and 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## If I wanted to hire you for FiveM, RedM, a website, program, or something else - how would I?
+## If I wanted to hire you for a project - how would I?
 Message me via [Discord](https://i.postimg.cc/rwrSqk2Q/Screenshot-1.png)
 
 ## Public Projects
