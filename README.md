@@ -9,6 +9,10 @@ Current Developer and Media Manager at [Pluto Development](https://pluton-websto
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ## If I wanted to hire you for a project - how would I?
 Message me via [Discord](https://i.postimg.cc/rwrSqk2Q/Screenshot-1.png)
@@ -16,6 +20,6 @@ Message me via [Discord](https://i.postimg.cc/rwrSqk2Q/Screenshot-1.png)
 ## Public Projects
 
 [Drug & Labs System v5](https://www.youtube.com/watch?v=TGbN4d8KP6g) |
-[FiveM Website](https://70sroleplay.com) |
-[Personal Website](https://www.macdevelopment.dev/)
+[Garage Creator](https://www.youtube.com/watch?v=NPd14Uqqwpo)
+
 
