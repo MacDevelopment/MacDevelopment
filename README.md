@@ -6,4 +6,4 @@ Currently, I am a Developer and Manager at [Pluton](https://pluto-dev.com). I al
 
 p.s., if you weren't a dev before ai, you aren't now, either 😏
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,lua,mysql,cs,git,github,vscode,figma" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,lua,mysql,git,github,vscode" /> </p>
