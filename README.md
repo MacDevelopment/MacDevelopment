@@ -4,6 +4,16 @@ I am a full-stack, freelance developer. Whether it is database builds, scripts, 
 
 Currently, I am a Developer and Manager at [Pluton](https://pluto-dev.com). I also partner with [BotGhost](https://botghost.com/?via=mac) for your Discord bots.
 
-p.s., if you weren't a dev before ai, you aren't now, either 😏
+Programming Languages
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,lua,mysql,git,github,vscode" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,lua,mysql" />
+</p>
+
+Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,cloudflare,supabase" />
+</p>
+
+p.s., if you weren't a dev before ai, you aren't now, either 😏
