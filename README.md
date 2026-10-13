@@ -4,7 +4,7 @@ I’m Mac, a full-stack developer with certifications earned through Coursera.
 
 Whether it’s fixing a critical bug or building an entirely new project, I specialize in websites, databases, FiveM/RedM resources, Discord bots, and more.
 
-Currently, I’m a Developer and Manager at (Pluton)[https://pluto-dev.com]. I also partner with (Botghost)[https://botghost.com/?via=mac] for your Discord bots.
+Currently, I’m a Developer and Manager at [Pluton](https://pluto-dev.com). I also partner with [Botghost](https://botghost.com/?via=mac) for your Discord bots.
 
 Languages & Technologies I’m Proficient In
 
