@@ -6,19 +6,19 @@ Whether it’s fixing a critical bug or building an entirely new project, I spec
 
 Currently, I’m a Developer and Manager at [Pluton](https://pluto-dev.com). I also partner with [Botghost](https://botghost.com/?via=mac) for your Discord bots.
 
-Languages & Technologies I’m Proficient In
+## Languages & Technologies I’m Proficient In
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,lua,mysql" />
 </p>
 
-Tools & Platforms I Utilize
+## Tools & Platforms I Utilize
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,cloudflare,supabase" />
 </p>
 
-My Certifications
+## My Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Front--End_Developer-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Front-End Developer" />
