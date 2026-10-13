@@ -1,12 +1,12 @@
 Hey there 👋
 
-I'm Mac - a full-stack developer. 
+I’m Mac, a full-stack developer with certifications earned through Coursera.
 
-Whether it be fixing a crucial bug or building an entierly new project, such as a database build, website, FiveM/RedM resource, Discord bot, or more - I'm sure I'm capable of doing it or assisting your team with it.
+Whether it’s fixing a critical bug or building an entirely new project, I specialize in websites, databases, FiveM/RedM resources, Discord bots, and more.
 
-Currently, I am a Developer and Manager at Pluton. I also partner with BotGhost for your Discord bots.
+Currently, I’m a Developer and Manager at (Pluton)[https://pluto-dev.com]. I also partner with (Botghost)[https://botghost.com/?via=mac] for your Discord bots.
 
-Languages & Technologies I'm Proficient In
+Languages & Technologies I’m Proficient In
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,lua,mysql" />
