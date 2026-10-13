@@ -1,10 +1,10 @@
 Hey there 👋
 
-I’m Mac, a full-stack developer with certifications earned through Coursera.
+I’m Mac, a full-stack developer with certifications earned through Coursera and CompTIA.
 
 Whether it’s fixing a critical bug or building an entirely new project, I specialize in websites, databases, FiveM/RedM resources, Discord bots, and more.
 
-Currently, I’m a Developer and Manager at [Pluton](https://pluto-dev.com). I also partner with [Botghost](https://botghost.com/?via=mac) for your Discord bots.
+Currently, I’m a Developer and Manager at Pluton. I also partner with BotGhost for your Discord bots.
 
 ### Languages & Technologies I’m Proficient In
 
@@ -21,10 +21,21 @@ Currently, I’m a Developer and Manager at [Pluton](https://pluto-dev.com). I a
 ### My Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--End_Developer-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Front-End Developer" />
-  <img src="https://img.shields.io/badge/JavaScript_Backend_Developer-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM JavaScript Backend Developer" />
-  <img src="https://img.shields.io/badge/Introduction_to_Relational_Databases-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Introduction to Relational Databases" />
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Getting Started with Git and GitHub" />
+  <a href="https://www.coursera.org/professional-certificates/ibm-frontend-developer">
+    <img src="https://img.shields.io/badge/Front--End_Developer-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Front-End Developer" />
+  </a>
+  <a href="https://www.coursera.org/professional-certificates/backend-javascript-developer">
+    <img src="https://img.shields.io/badge/JavaScript_Backend_Developer-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM JavaScript Backend Developer" />
+  </a>
+  <a href="https://www.coursera.org/learn/introduction-to-relational-databases">
+    <img src="https://img.shields.io/badge/Introduction_to_Relational_Databases-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Introduction to Relational Databases" />
+  </a>
+  <a href="https://www.coursera.org/learn/getting-started-with-git-and-github">
+    <img src="https://img.shields.io/badge/Git_%26_GitHub-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Getting Started with Git and GitHub" />
+  </a>
+  <a href="https://www.comptia.org/en-us/certifications/a/core-1-and-2-v15/">
+    <img src="https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=for-the-badge&logoColor=white" alt="CompTIA A+ Certified" />
+  </a>
 </p>
 
 ⸻
