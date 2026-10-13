@@ -19,10 +19,10 @@ Tools & Platforms
 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--End_Developer-Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front--End_Developer-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript_Backend_Developer-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL_8.0_Database_Developer-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Foundations-Certified-24292F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Relational_Database_Administrator-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 ⸻
