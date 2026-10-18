@@ -1,6 +1,6 @@
 Hey there 👋
 
-I’m Mac, a full-stack developer with certifications earned through Coursera and CompTIA.
+I’m Mac, a full-stack developer with certifications earned through Coursera.
 
 Whether it’s fixing a critical bug or building an entirely new project, I specialize in websites, databases, FiveM/RedM resources, Discord bots, and more.
 
@@ -32,9 +32,6 @@ Currently, I’m a Developer and Manager at [Pluton](https://pluto-dev.com/). I 
   </a>
   <a href="https://www.coursera.org/learn/getting-started-with-git-and-github">
     <img src="https://img.shields.io/badge/Git_%26_GitHub-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Getting Started with Git and GitHub" />
-  </a>
-  <a href="https://www.comptia.org/en-us/certifications/a/core-1-and-2-v15/">
-    <img src="https://img.shields.io/badge/CompTIA-A%2B-C8202F?style=for-the-badge&logoColor=white" alt="CompTIA A+ Certified" />
   </a>
 </p>
 
